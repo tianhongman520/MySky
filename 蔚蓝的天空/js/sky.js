@@ -39,4 +39,3 @@ $(document).ready(function() {
 		$(".main-img-b").toggleClass("img-rotate");
 	},2000);
 });
-	

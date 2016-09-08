@@ -40,7 +40,7 @@ body{
 .content{
 	clear: both;
 	width: 100%;
-	height: 440px;
+	height: 580px;
 	margin-top:-20px;
 	background-image: url(../img/back.jpg);
 	background-repeat: no-repeat;
@@ -129,4 +129,18 @@ body{
 	height: 345px;
 	margin-left: 7px;
 	margin-top: 3px;
+}
+/*footer*/
+.footer{
+	width: 100%;
+	height: 38px;
+	margin-top:5px;
+	text-align: center;
+}
+.footer span{
+	font-family: "微软雅黑";
+	width: 559px;
+	height: 38px;
+	
+	line-height: 38px;
 }
